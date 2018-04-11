@@ -1,4 +1,4 @@
-# todo-list
+# My-note
 
 > a simple todo-list
 
